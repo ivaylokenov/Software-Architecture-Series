@@ -32,7 +32,10 @@ Premium gold sponsor:
 
 Part 1 - Fundamentals & Essentials - Table of contents:
 
-- TBA
+- Why Software Architecture
+- What Is Software Architecture?
+- Unified Modeling Language
+- Designing Solution Architectures
 
 If you'd like to support me and my projects, please consider:
 
@@ -50,4 +53,4 @@ If you'd like to support me and my projects, please consider:
 Additional resources:
 
 - My YouTube channel is a great place to learn advanced C# concepts. Make sure you subscribe and turn on the bell notifications - [Code It Up with Ivo](https://www.youtube.com/channel/UCP5Ons7fK3yKhX6lhc9XcfQ)
-- ASP.NET Core Microservices Bundle - a series of courses about architecture, domain-driven design, containers, clusters, and many more - [SoftUni Module](https://softuni.bg/modules/124/asp-net-core-microservices-complete-bundle-september-2021/1309) 
+- My blog is full of written tutorial around the C# language. Make sure you subscribe to the mailing list - [Code It Up Today](https://codeitup.today)
