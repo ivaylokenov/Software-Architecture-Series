@@ -1,6 +1,6 @@
 # Software Architecture Series - Code It Up Online
 
-This repository contains the presentations from my event series "Software Architecture - Code It Up Online". If you liked the lectures, please consider giving me a star. Thank you!
+This repository contains the presentations from my event series ["Software Architecture - Code It Up Online"](https://www.eventbrite.com/o/code-it-up-29733808833). If you liked the lectures, please consider giving me a star. Thank you!
 
 ## Diamond sponsor
 
@@ -44,16 +44,16 @@ This repository contains the presentations from my event series "Software Archit
   </tbody>
 </table>
 
-## Series parts
+## [Series](https://www.eventbrite.com/o/code-it-up-29733808833)
 
-### Part 1 - Fundamentals & Essentials - Table of contents
+### [Part 1 - Fundamentals & Essentials - Table of contents](https://www.eventbrite.com/e/software-architecture-fundamentals-essentials-code-it-up-online-vol-9-registration-222550182587)
 
 - Why Software Architecture
 - What Is Software Architecture?
 - Unified Modeling Language
 - Designing Solution Architectures
 
-### Part 2 - Technology & Patterns - Table of contents
+### [Part 2 - Technology & Patterns - Table of contents](https://www.eventbrite.com/e/software-architecture-technology-patterns-code-it-up-online-vol-10-registration-244365432587)
 
 - Common Technology Stacks
 - Architecture Design Patterns
