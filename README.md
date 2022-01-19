@@ -2,7 +2,7 @@
 
 This repository contains the presentations from my event series "Software Architecture - Code It Up Online". If you liked the lectures, please consider giving me a star. Thank you!
 
-## Diamond sponsor:
+## Diamond sponsor
 
 <table>
   <tbody>
@@ -16,7 +16,7 @@ This repository contains the presentations from my event series "Software Archit
   </tbody>
 </table>
 
-## Premium gold sponsor:
+## Premium gold sponsor
 
 <table>
   <tbody>
@@ -30,7 +30,7 @@ This repository contains the presentations from my event series "Software Archit
   </tbody>
 </table>
 
-## Gold sponsor:
+## Gold sponsor
 
 <table>
   <tbody>
@@ -44,22 +44,22 @@ This repository contains the presentations from my event series "Software Archit
   </tbody>
 </table>
 
-## Series parts:
+## Series parts
 
-### Part 1 - Fundamentals & Essentials - Table of contents:
+### Part 1 - Fundamentals & Essentials - Table of contents
 
 - Why Software Architecture
 - What Is Software Architecture?
 - Unified Modeling Language
 - Designing Solution Architectures
 
-### Part 2 - Technology & Patterns - Table of contents:
+### Part 2 - Technology & Patterns - Table of contents
 
 - Common Technology Stacks
 - Architecture Design Patterns
 - Choosing The Right Patterns
 
-## Support:
+## Support
 
 If you'd like to support me and my projects, please consider:
 
@@ -74,7 +74,7 @@ If you'd like to support me and my projects, please consider:
   - LTC (Litecoin) - MQ1GJum1QuqAuUsc6LarE3Z6TQQJ3rJwsA
   - SOL (Solana) - 6QbktNAb171ix3eSzMtESXhdCVxywUYEFHkWfyWhz3LF
 
-## Additional resources:
+## Additional resources
 
 - My YouTube channel is a great place to learn advanced C# concepts. Make sure you subscribe and turn on the bell notifications - [Code It Up with Ivo](https://www.youtube.com/channel/UCP5Ons7fK3yKhX6lhc9XcfQ)
 - My blog is full of written tutorial around the C# language. Make sure you subscribe to the mailing list - [Code It Up Today](https://codeitup.today)
