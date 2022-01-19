@@ -2,7 +2,7 @@
 
 This repository contains the presentations from my event series "Software Architecture - Code It Up Online". If you liked the lectures, please consider giving me a star. Thank you!
 
-Diamond sponsor:
+## Diamond sponsor:
 
 <table>
   <tbody>
@@ -16,7 +16,7 @@ Diamond sponsor:
   </tbody>
 </table>
 
-Premium gold sponsor:
+## Premium gold sponsor:
 
 <table>
   <tbody>
@@ -30,12 +30,32 @@ Premium gold sponsor:
   </tbody>
 </table>
 
+## Gold Sponsors
+
+<table>
+  <tbody>
+    <tr>
+	    <td align="center" valign="middle">
+        <a href="http://bit.ly/30xsnsC" target="_blank">
+          <img width="180px" src="https://user-images.githubusercontent.com/3391906/65251792-dd848800-daef-11e9-8857-637a48048cda.png">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 Part 1 - Fundamentals & Essentials - Table of contents:
 
 - Why Software Architecture
 - What Is Software Architecture?
 - Unified Modeling Language
 - Designing Solution Architectures
+
+Part 2 - Technology & Patterns - Table of contents:
+
+- Common Technology Stacks
+- Architecture Design Patterns
+- Choosing The Right Patterns
 
 If you'd like to support me and my projects, please consider:
 
