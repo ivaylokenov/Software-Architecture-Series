@@ -59,6 +59,20 @@ This repository contains the presentations from my event series ["Software Archi
 - Architecture Design Patterns
 - Choosing The Right Patterns
 
+### [Part 3 - Common Design Choices - Table of contents](https://www.eventbrite.com/e/software-architecture-common-design-choices-code-it-up-online-vol-11-registration-251121690737)
+
+- Choosing The Right Database
+- Choosing The Right Patterns
+- Common Design Choices
+- URL Shortening System Design
+
+### [Part 4 - Quality Attributes & Considerations - Table of contents](https://www.eventbrite.com/e/software-architecture-quality-attributes-code-it-up-online-vol-12-registration-256029329617)
+
+- Architecture Quality Attributes
+- Scalability & Reliability
+- System-Wide Considerations
+- Deployment Considerations
+
 ## Support
 
 If you'd like to support me and my projects, please consider:
