@@ -73,6 +73,28 @@ This repository contains the presentations from my event series ["Software Archi
 - System-Wide Considerations
 - Deployment Considerations
 
+### [Part 5 - Monolithic Approaches - Table of contents](https://www.eventbrite.com/e/software-architecture-monolithic-approaches-code-it-up-online-vol-13-registration-257838059577)
+
+- Responsibilities Decomposition
+- Domain-Driven Low-Level Design
+- Clean Architecture & Vertical Slices
+- Advanced Patterns & Anti-Patterns
+
+### [Part 6 - Microservices - Table of contents](https://www.eventbrite.com/e/software-architecture-microservices-code-it-up-online-vol-14-registration-262477656737)
+
+- Microservices Architecture
+- Eventual Consistency
+- Distributed Transactions
+
+### [Part 7 - The Architect & The Team - Table of contents](https://www.eventbrite.com/e/software-architecture-the-architect-the-team-code-it-up-online-vol-15-registration-265180962397)
+
+- Advanced Patterns & Anti-Patterns
+- The Architecture Document
+- The Architect And The Team
+- What Makes A Great Architect
+
+### [Part 8 - Real Life Solutions - Table of contents](https://www.eventbrite.com/e/software-architecture-real-life-solutions-code-it-up-online-vol-16-registration-265222346177)
+
 ## Support
 
 If you'd like to support me and my projects, please consider:
